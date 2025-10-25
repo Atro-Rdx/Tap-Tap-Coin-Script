@@ -73,7 +73,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 📬 Contact
 
 * **Author**: ATRO RDX
-* **Email**: [atro@devileye.uk](mailto:atro@devileye.uk)
+* **Email**: [meerhxssxn@gmail.com](mailto:meerhxssxn@gmail.com)
 * **Website**: [https://devileye.uk](https://devileye.uk)
 * **Phone**: +92 342 0290370
 
